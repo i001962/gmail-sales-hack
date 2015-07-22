@@ -1,0 +1,23 @@
+{
+  "name": "gmail-sales-hack",
+  "version": "1.0.0",
+  "description": "gmail auto responder",
+  "main": "quickstart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i001962/gmail-sales-hack.git"
+  },
+  "author": "i001962",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i001962/gmail-sales-hack/issues"
+  },
+  "homepage": "https://github.com/i001962/gmail-sales-hack",
+  "dependencies": {
+    "google-auth-library": "^0.9.6",
+    "googleapis": "^2.1.1"
+  }
+}
